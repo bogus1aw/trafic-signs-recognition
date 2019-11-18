@@ -1,5 +1,7 @@
 Fork/based on https://github.com/chsasank/Traffic-Sign-Classification.keras/blob/master/Traffic%20Sign%20Classification.ipynb
 
+Modified to work on Tensorflow 2.0 and on Windows like filepaths
+
 # Traffic-Sign-Classification.keras
 GTSRB in keras and python
 
